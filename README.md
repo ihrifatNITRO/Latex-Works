@@ -1,1 +1,2 @@
 # Latex-Works
+This repository contains some technical reports and literature reviews I have been prepared for my course works in Computer Science and Engineering. These documents are not published (yet), but, it allows me to explore wide ranging topics, study them and present my view in a structured way. All writings are prepared in LaTeX which is an indication of technical document preparation with rich style and structure.
